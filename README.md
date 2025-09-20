@@ -1,4 +1,3 @@
-````markdown
 # DUCK Browser 🦆
 
 **DUCK Browser** is a privacy-focused, lightweight web browser designed to keep your online activity private and secure. With advanced tracking protection, built-in encryption, and minimal data collection, DUCK empowers users to browse the web without compromising their personal information.
@@ -158,16 +157,3 @@ For help or support, feel free to open an issue or contact us at [support@duckbr
 ---
 
 **Stay Safe. Stay Private. Browse with DUCK.** 🦆
-````
-
-### Explanation of Sections:
-
-* **Key Features**: Highlights what makes DUCK special, especially its privacy features.
-* **Installation**: Provides installation methods (pre-built binaries and building from source).
-* **Usage**: Instructions on how to use DUCK and configure privacy settings.
-* **Contributing**: Encourages developers to contribute and outlines the process.
-* **Roadmap**: Lists planned features and updates.
-* **Privacy Policy**: Assures users about data protection and privacy.
-* **License**: Specifies the open-source license for DUCK.
-* **Acknowledgments**: Credits for dependencies or libraries used.
-
